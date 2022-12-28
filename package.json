@@ -1,0 +1,22 @@
+{
+  "name": "ajs-ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanaLigotkina/ajs-ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanaLigotkina/ajs-ajs/issues"
+  },
+  "homepage": "https://github.com/JanaLigotkina/ajs-ajs#readme",
+  "dependencies": {
+    "@janaligotkina/ajs": "^1.0.0"
+  }
+}
